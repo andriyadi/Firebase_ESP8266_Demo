@@ -1,0 +1,7 @@
+.pioenvs
+CMakeListsPrivate.txt
+.piolibdeps
+.idea/
+CMakeLists.txt
+lib/firebase-arduino/test/arduino-mock/
+lib/firebase-arduino/test/googletest/
