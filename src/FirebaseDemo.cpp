@@ -18,7 +18,7 @@
 #define REPORTING_PERIOD_MS     1000
 
 // Set Firebase Host and Auth key. Key is buried under "Project Settings" of a project.
-// Here's how to get the key:
+// Here's how to get the key: https://raw.githubusercontent.com/andriyadi/Firebase_ESP8266_Demo/master/HowToGetTheKey.gif
 #define FIREBASE_HOST "[FIREBASE_PROJECT_NAME].firebaseio.com"
 #define FIREBASE_AUTH "[FIREBASE_PROJECT_KEY]"
 
