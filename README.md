@@ -1,6 +1,10 @@
 # Firebase ESP8266 Demo
 This project shows you how to read MAX30100 heart beat sensor, and publish the data to Firebase Realtime Database.
 
+Scenario:
+![Scenario](https://raw.githubusercontent.com/andriyadi/Firebase_ESP8266_Demo/master/DemoScenario.jpg)
+
+
 ## Shopping List
 
 * ESP8266 board, I use [ESPectro](http://makestro.com/espectro)
